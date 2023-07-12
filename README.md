@@ -4,11 +4,10 @@ Ce dépôt contient des ressources pour le cours sur les principes et les meille
 
 ## Structure du dépôt
 
-Le dépôt est organisé en plusieurs branches, chacune représentant une étape spécifique du cours. Vous pouvez naviguer entre les branches pour suivre la progression du cours et accéder au contenu correspondant à chaque étape.
+Le dépôt est organisé en plusieurs dossiers, chacun représentant une étape spécifique du cours. Vous pouvez naviguer entre les dossiers pour 
+suivre la progression du cours et accéder au contenu correspondant à chaque étape.
 
-## Branches disponibles
-
-add links to folder
+## Parties disponibles
 
 1. `part-1-introduction` : [Les principes FIRST Introduction](part-1-introduction/README.md)
 2. `part-2-fast-tests` : [Les principes FIRST Fast (rapides)](part-2-fast-tests/README.md)
